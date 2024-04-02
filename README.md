@@ -1,10 +1,10 @@
-Document Verification Using Machine Learning :
+DOCUMENT VERIFICATION USING MACHINE LEARNING:
 
 Overview
 This project aims to implement a document verification system using machine learning techniques. 
 The system will take an input document (such as pan,adhaar etc) and verify its authenticity by comparing it against a database of genuine documents.
 
-Components
+COMPONENTS-
 Data Collection: Gather a dataset of genuine documents for training the model. This dataset should include various types of documents with different backgrounds, text formats, and layouts.
 
 Preprocessing: Preprocess the collected documents to extract relevant features, such as text, images, and other metadata. This step may involve image processing techniques, OCR (Optical Character Recognition).
@@ -17,7 +17,7 @@ Database Management: Set up and manage a database of genuine documents. This dat
 
 Verification System: Develop an interface for users to upload their documents for verification. The system should process the input document, compare it against the database, and provide a verification result.
 
-Usage
+USAGE-
 Data Collection: Collect a dataset of genuine documents from reliable sources. Ensure that the dataset is diverse and representative of the documents the system will encounter in real-world scenarios.
 
 Preprocessing: Preprocess the collected documents to extract relevant features. This may involve cleaning the data, removing noise, and converting documents into a standardized format.
@@ -30,7 +30,7 @@ Database Management: Set up a database to store genuine documents securely. Ensu
 
 Verification System: Develop a user-friendly interface for users to upload their documents for verification. Integrate the trained model and database into the verification system. Provide feedback to users about the verification result and any additional steps they need to take.
 
-Conclusion
+CONCLUSION-
 Implementing a document verification system using machine learning involves several steps, including data collection, preprocessing, feature extraction, model training, database management, and building the verification system.
 
 
